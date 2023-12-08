@@ -1,0 +1,8 @@
+input/*
+!input/.gitkeep
+output/*
+toolkits/*
+.Trash-1000
+arnie_deps/*
+__pycache__
+.ipynb_checkpoints

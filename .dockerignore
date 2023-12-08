@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Allow following files/directories
+!Dockerfile
+!requirements.txt
+
